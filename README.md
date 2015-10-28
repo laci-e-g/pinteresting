@@ -1,3 +1,3 @@
 # This is the printeresting sample application 
 
-by [Laszlo Bekö]
+by [laci-e-g]
